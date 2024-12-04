@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript: improper handling of null values. The `bug.js` file shows a function that fails when null is passed as an argument. The `bugSolution.js` file provides a corrected version that handles null values gracefully.
